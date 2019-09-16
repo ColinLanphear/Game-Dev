@@ -1,6 +1,7 @@
 # My Experience with Super Metroid on the SNES
 
 Game: Super Metroid
+
 Publisher: Nintendo
 
 Super Metroid is all about exploration and experimentation. The player must explore levels while defeating enemies by shooting them or putting bombs near them. Some passages are closed off so the player must find the right tool through exploration to progress into those closed off areas. The game does not hold the players hand and only tells the player what button(s) to press to use the tool, not where or how. There are specific assets that signal to the player that they are breakable or different than the other blocks and allow the player to try their assortment of tools to figure out what tool works for this specific issue. This leaves the player with a sense of accomplishment and knowledge.
