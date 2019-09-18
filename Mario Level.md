@@ -4,4 +4,7 @@ The theme of my level is that an Monty Mole running a diamond mining operation u
 
 Notes after game test:
 
-Hard jump to skip lower level is not so hard, one big choke point, add more moles, put ? block in front.
+- Hard jump to skip lower level is not so hard
+- One big choke point
+- Add more moles
+- Put ? block in front.
