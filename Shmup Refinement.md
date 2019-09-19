@@ -20,14 +20,14 @@ What are the basic rules for your game?
 
 - Some of the challanges are the challange that other players create and there are asteroids that act as cover and extra projectiles.  
 
-- Move all motions with drifting, shooting, 5 hits to kill anyone.
+- Move all degrees with drifting (zero gravity), shooting, 5 hits to kill anyone.
 
 #### Limited resource shmup.
 
--
+- The formal elements I am working with are resources and conflict. The resources are limited and need to be managed by the player. I break the resources down to fuel, bullets and shield. This leads into the conflict. The conflict is to make the player think about when to destroy enemies and when to dodge the enemies. 
 
--
+- Some challenges are the enemies engagement patterns may be able to be dodged or have to be destroyed. There will be hidden side areas that have caches of ammo, shield and fuel that would have to be solved with puzzles. I.e. shoot things in a specific order, moving items around to make a shape.
 
--
+- Move forward, back, left, right, dodging, shooting, use shield, different damage needed for different enemies, collision with objects. 
 
 
