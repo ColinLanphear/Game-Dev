@@ -16,11 +16,11 @@ What are the basic rules for your game?
 
 #### Asteroid battle royale.
 
-- The formal elements I am working with are players and objective. The players is a free for all consisting of 10+ players. 
+- The formal elements I am working with are players and objective. The players is a free for all consisting of 10+ players. The objective is outwitting and being the last one alive. 
 
--
+- Some of the challanges are the challange that other players create and there are asteroids that act as cover and extra projectiles.  
 
--
+- 
 
 #### Limited resource shmup.
 
