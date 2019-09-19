@@ -20,7 +20,7 @@ What are the basic rules for your game?
 
 - Some of the challanges are the challange that other players create and there are asteroids that act as cover and extra projectiles.  
 
-- 
+- Move all motions with drifting, shooting, 5 hits to kill anyone.
 
 #### Limited resource shmup.
 
